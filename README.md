@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves building and exploring innovative projects. Here, you'll find a mix of personal projects, collaborations, and tools that showcase my skills and interests.
 
 You can also check my other GitHub profiles:
-- [https://github.com/Krishankb](https://github.com/Krishankb)
+- [Github - krishankb](https://github.com/Krishankb)
 
 ---
 
