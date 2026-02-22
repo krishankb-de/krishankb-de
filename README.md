@@ -5,6 +5,12 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building and 
 You can also check my other GitHub profiles:
 - [Github - krishankb](https://github.com/Krishankb)
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 ### 🌟 About Me:
