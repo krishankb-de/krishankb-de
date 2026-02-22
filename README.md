@@ -5,11 +5,32 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building and 
 You can also check my other GitHub profiles:
 - [Github - krishankb](https://github.com/Krishankb)
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+
+  <h2>Contribution Flow</h2>
+  <p><sub>Building consistently, one commit at a time.</sub></p>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake.svg"
+      width="900"
+      style="max-width: 100%; height: auto;"
+      loading="lazy"
+    />
+  </picture>
+
+  <p><sub>⚡ krishankb • Continuous Building and shipping</sub></p>
+
+</div>
 
 ---
 
